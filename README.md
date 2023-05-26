@@ -1,8 +1,5 @@
 # Como iniciar o projeto ?
 
-## COMO CLONAR ?
-`` git clone https://github.com/helxysa/frontend.git ``
-
 ## Dependencias
 ### `npm install`
 
